@@ -1,0 +1,9 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for chrome-extension",
+  "main": "index.js",
+  "repository": "https://github.com/yonslee/chrome-extension-boilerplate.git",
+  "author": "yons",
+  "license": "unlicensed"
+}
