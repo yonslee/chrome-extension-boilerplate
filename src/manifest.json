@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome-Extension Boilerplate",
+  "description": "Chrome Extension using React and typescript",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Chrome Extension BoilerPlate"
+  }
+}
